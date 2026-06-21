@@ -1,0 +1,11 @@
+{
+  "appId": "ng.shadowvaults.app",
+  "appName": "Shadow Vaults",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

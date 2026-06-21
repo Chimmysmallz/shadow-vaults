@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Capacitor / Android build output
+android/www/
+android/android/
+android/.gradle/
+*.apk
+*.aab
+*.keystore
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
